@@ -1,14 +1,14 @@
 {
-    "name": "rewrite/moneysign",
-    "description": "記帳功能",
-    "require": {
-        "php": "7.2"
-    },
-    "license": "GPLv3",
-    "authors": [
-        {
-            "name": "dark",
-            "email": "darkrewrite@gmail.com"
-        }
-    ]
+  "name": "rewrite/moneysign",
+  "description": "記帳功能",
+  "require": {
+    "php": "7.2.*"
+  },
+  "license": "GPLv3",
+  "authors": [
+    {
+      "name": "dark",
+      "email": "darkrewrite@gmail.com"
+    }
+  ]
 }
