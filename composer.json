@@ -1,12 +1,8 @@
 {
-    "name": "laravel/laravel",
+    "name": "rewrite/moneysign",
+    "description": "記帳功能",
     "type": "project",
-    "description": "The Laravel Framework.",
-    "keywords": [
-        "framework",
-        "laravel"
-    ],
-    "license": "MIT",
+    "license": "GPLv3",
     "require": {
         "php": "^7.2",
         "fideloper/proxy": "^4.0",
